@@ -4,6 +4,7 @@ box-sizing: border-box;
 
 body {
 text-align: center;
+background: beige;
 }
 
 h2 {
@@ -13,3 +14,4 @@ font-size: 36px;
 p {
 font-family: Arial, sans-serif;
 }
+
